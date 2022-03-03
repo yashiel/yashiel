@@ -1,16 +1,16 @@
 <img src="https://www.zibtek.com/blog/content/images/2020/08/UX_UI-Design--1-.png" alt="Ui/UX">
 <h1 align="center">Hi 👋, I'm Yashi</h1>
-<h3 align="center">A Passionate UX/UI Design | Frontend Developer | Filmmaker</h3>
+<h3 align="center">A Passionate UX/UI Designer | Frontend Developer | Filmmaker</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashiel&label=Profile%20views&color=ff0000&style=flat" alt="yashiel" /> </p> <p align="left"> <a href="https://twitter.com/yashilanka" target="blank"><img src="https://img.shields.io/twitter/follow/yashilanka?logo=twitter&style=for-the-badge" alt="yashilanka" /></a> </p>
 
 - 🔭 I’m currently working on **LOOP**
 
-- 🌱 I’m currently learning **Svelte, Threejs**
+- 🌱 I’m currently learning **SvelteJS, Threejs**
 
 - 👨‍💻 All of my projects are available at [https://yashiel.com](https://yashiel.com)
 
-- 💬 Ask me about **GSAP, Svelte, HTML, CSS**
+- 💬 Ask me about **GSAP, Svelte, HTML, CSS, Directus, Strpi, Wordpress**
 
 - 📫 How to reach me **hi@yashiel.com**
 
