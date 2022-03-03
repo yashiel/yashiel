@@ -30,9 +30,4 @@
 <hr>
 <p><a href="https://www.buymeacoffee.com/yashiel"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yashiel" /></a><a href="https://ko-fi.com/yashiel "> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="yashiel " /></a></p><br><br>
 
-<hr>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=yashiel&show_icons=true&theme=tokyonight&locale=en" alt="yashiel" /></p>
-
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashiel&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="yashiel" /></p>
 
