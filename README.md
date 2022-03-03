@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/yashiel/yashiel/main/19362653.jpg" alt="Ui/UX">
+<img src="https://raw.githubusercontent.com/yashiel/yashiel/main/Artboard%203.png" alt="Ui/UX">
 <h1 align="center">Hi 👋, I'm Yashi</h1>
 <h3 align="center">A Passionate UX/UI Designer | Frontend Developer | Filmmaker</h3>
 
