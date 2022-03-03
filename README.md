@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://yashiel.com](https://yashiel.com)
 
-- 💬 Ask me about **GSAP, Svelte, HTML, CSS, Directus, Strpi, Wordpress**
+- 💬 Ask me about **GSAP, Svelte, HTML, CSS, Directus, Strapi, Wordpress**
 
 - 📫 How to reach me **hi@yashiel.com**
 
