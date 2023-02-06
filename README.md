@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/yashiel/yashiel/main/Mask%20Group%201.png" alt="Ui/UX">
 <h1 align="center">Hi 👋, I'm Yashi</h1>
-<h3 align="center">A Passionate UX/UI Designer | Frontend Developer | Filmmaker</h3>
+<h3 align="center">A Passionate Digital Product Designer | Frontend Developer | Filmmaker</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashiel&label=Profile%20views&color=ff0000&style=flat" alt="yashiel" /> </p> <p align="left"> <a href="https://twitter.com/yashilanka" target="blank"><img src="https://img.shields.io/twitter/follow/yashilanka?logo=twitter&style=for-the-badge" alt="yashilanka" /></a> </p>
 
