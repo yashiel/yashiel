@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashiel&label=Profile%20views&color=ff0000&style=flat" alt="yashiel" /> </p> <p align="left"> <a href="https://twitter.com/yashilanka" target="blank"><img src="https://img.shields.io/twitter/follow/yashilanka?logo=twitter&style=for-the-badge" alt="yashilanka" /></a> </p>
 
-- 🔭 I’m currently working on **LOOP**
+- 🔭 I’m currently working on **Showrun**
 
 - 🌱 I’m currently learning **SvelteJS, Threejs**
 
